@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 # Configuración
-api_key = "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"
+api_key = ""
 url_api = "https://api.openai.com/v1/chat/completions"
 headers = {
     "Authorization": f"Bearer {api_key}",
